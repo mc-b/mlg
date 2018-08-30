@@ -1,4 +1,4 @@
-Beispiele zum Kurs: [Kurs: Machine Learning Grundlagen («MLG»)](https://www.digicomp.ch/weiterbildung/development/artificial-intelligence/machine-learning-grundlagen)
+Beispiele zum Kurs: [Machine Learning Grundlagen («MLG»)](https://www.digicomp.ch/weiterbildung/development/artificial-intelligence/machine-learning-grundlagen)
 =============================================================================================
 
 ### Quick Start
