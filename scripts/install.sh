@@ -5,6 +5,8 @@
 # Jupyter Machine Learning Umgebung (zuerst pull, weil Image sehr, sehr gross)
 docker pull jupyter/tensorflow-notebook
 kubectl create -f https://raw.githubusercontent.com/mc-b/duk/master/jupyter/jupyter.yaml 
+kubectl create -f https://raw.githubusercontent.com/mc-b/mlg/master/jupyter/jupyter-mlg.yaml
+
 
 # Jupyter Scripte etc. Allgemein verfuegbar machen
 cp -rpv data/* /data/
