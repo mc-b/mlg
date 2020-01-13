@@ -13,5 +13,4 @@ Projekt [lernkube](https://github.com/mc-b/lernkube), auf der Git/Bash Kommandoz
 	vagrant plugin install vagrant-disksize
 	vagrant up
 
-
-Nach der Installation: öffnet die Interaktive Lernumgebung mit dem Machine Learning Beispiel [http://localhost:32288/notebooks/work/02-2-MLTempHumSensor.ipynb](http://localhost:32288/notebooks/work/02-2-MLTempHumSensor.ipynb) und spielt das Beispiel, mittels `Run` durch.
+Nach der Installation: öffnet die interaktive Jupyter Lernumgebung mit dem [Machine Learning Beispielen](http://localhost:32088/) und spielt diese mittels `Run` durch.
