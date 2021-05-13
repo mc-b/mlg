@@ -33,7 +33,7 @@ spec:
     spec:
       containers:
       - name: mlg
-        image: misegr/jupyter-mlg
+        image: registry.gitlab.com/mc-b/misegr/jupyter-mlg
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8888
