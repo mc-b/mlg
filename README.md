@@ -5,7 +5,7 @@ Beispiele zum Kurs: [Machine Learning Grundlagen («MLG»)](https://www.digicomp
 
 Installiert [Git/Bash](https://git-scm.com/downloads), [Multipass](https://multipass.run/) und [Terraform](https://www.terraform.io/).
 
-Projekt [lernkube](https://github.com/mc-b/lernkube), auf der Git/Bash Kommandozeile (CLI), klonen und Installation starten. 
+Projekt [mlg](https://github.com/mc-b/mlg), auf der Git/Bash Kommandozeile (CLI), klonen und Installation starten. 
 
 	git clone https://github.com/mc-b/mlg
 	cd mlg
