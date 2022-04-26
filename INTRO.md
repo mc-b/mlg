@@ -6,5 +6,5 @@ Umgebung zum Kurs: [Machine Learning Grundlagen («MLG»)](https://github.com/mc
 Services
 --------
 
-* http://${fqdn}:32088 - Machine Learning Umgebung (Jupyter Notebooks)
+* http://${fqdn}:32088 - Beispiele Machine Learning (Jupyter Notebooks)
 
