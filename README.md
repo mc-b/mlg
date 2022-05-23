@@ -12,7 +12,7 @@ Projekt [mlg](https://github.com/mc-b/mlg), auf der Git/Bash Kommandozeile (CLI)
 	terraform init
 	terraform apply
 
-Nach der Installation: öffnet die interaktive Jupyter Lernumgebung mit dem [Machine Learning Beispielen](http://localhost:32088/) und spielt diese mittels `Run` durch.
+Nach der Installation: öffnet die interaktive Jupyter Lernumgebung mit dem [Machine Learning Beispielen](http://mlg-50-default.mshome.net:32088/) und spielt diese mittels `Run` durch.
 
 Wird die Umgebung nicht mehr gebraucht kann sie wie folgt gelöscht werden:
 
